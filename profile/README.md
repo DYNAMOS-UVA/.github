@@ -6,21 +6,25 @@ This is a hub of projects related to DYNAMOS (Dynamically Adaptive Microservice-
 - [DYNAMOS](https://github.com/DYNAMOS-UVA/DYNAMOS) (main project):
 A microservice-based proof-of-concept implementation of the DYNAMOS middleware for dynamically adaptive data-exchange systems. This repository contains the core services, deployment manifests and example archetypes used during the thesis work and demos. 
 <br>
+
 **Original authors:** Stutterheim, Jorrit, Aleandro Mifsud 
 
 - [Scattered Directive](https://github.com/DYNAMOS-UVA/Scattered-Directive)
 is an automated and reproducible framework to deploy the DYNAMOS digital data marketplace on research testbeds (e.g., FABRIC). It automates setup steps such as node reservation, configuration and deployment of DYNAMOS archetypes so researchers can reproduce experiments without manual provisioning. The repository includes profiles, automation scripts and an example archetype for Vertical Federated Learning that demonstrates shared execution via a Trusted Third Party (TTP).
 <br>
+
 **Original author:** Jake Jongejans 
 
 - [Energy Efficient DYNAMOS](https://github.com/DYNAMOS-UVA/EnergyEfficiency_DYNAMOS)
 This fork focuses on energy-efficiency optimizations for DYNAMOS archetypes. The work documents an energy-reporting pipeline, identifies candidate optimizations (e.g., request caching, data compression), implements selected optimizations, and validates results in both local Docker and distributed Kubernetes deployments (including FABRIC). Key findings are that caching often reduces energy and execution time significantly, while compression can introduce compute overheads. The repo contains measurement scripts, experiment configurations and analysis artifacts used for the thesis.
 <br>
+
 **Original author:** Collin Poetoehena
 
 - [FL disagreement resolution](https://github.com/DYNAMOS-UVA/fl-disagreement-resolution)
 A federated learning simulation and orchestration system that implements multi-track disagreement resolution for client-level exclusions. It addresses scenarios where not all clients mutually agree to collaborate: the system creates isolated model-update “tracks” per disagreement preference to enforce client-level exclusion and prevent cross-contamination. The project contains simulation code, visualization tools for track contributions over time, and material used for evaluation in the thesis and related publications.
 <br>
+
 **Original author:** Daan Rosendal
 
 
