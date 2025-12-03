@@ -5,7 +5,7 @@ This is a hub of projects related to DYNAMOS (Dynamically Adaptive Microservice-
 ## Repositories
 - [DYNAMOS](https://github.com/DYNAMOS-UVA/DYNAMOS) (main project):
 A microservice-based proof-of-concept implementation of the DYNAMOS middleware for dynamically adaptive data-exchange systems. This repository contains the core services, deployment manifests and example archetypes used during the thesis work and demos. 
-    - **Original authors:** Stutterheim, Jorrit, Aleandro Mifsud 
+    - **Original authors:** Jorrit Stutterheim, Aleandro Mifsud 
 
 - [Scattered Directive](https://github.com/DYNAMOS-UVA/Scattered-Directive)
 is an automated and reproducible framework to deploy the DYNAMOS digital data marketplace on research testbeds (e.g., FABRIC). It automates setup steps such as node reservation, configuration and deployment of DYNAMOS archetypes so researchers can reproduce experiments without manual provisioning. The repository includes profiles, automation scripts and an example archetype for Vertical Federated Learning that demonstrates shared execution via a Trusted Third Party (TTP).
