@@ -44,11 +44,8 @@ Container-Based Systems"**, 10th International Workshop on Green and Sustainable
 ## Demonstrations & More Material:
 - (Nov 2025) SC 2025
 - RENCI webinar 
-- [SuperComputing 2024: Microservices-based FABRIC implementation of Collaborative Model Training Scenario  with Vertical Federated Learning](../Demonstration_material/SC_2024/SC2024.md)
-- [SuperComputing 2023: Dynamos: Dynamically Adaptive Microservice-based OS](../Demonstration_material/SC_2023/SC2023.md)
+- [SuperComputing 2024](../Demonstration_material/SC_2024/SC2024.md): Microservices-based FABRIC implementation of Collaborative Model Training Scenario  with Vertical Federated Learning
+- [SuperComputing 2023](../Demonstration_material/SC_2023/SC2023.md): Dynamos: Dynamically Adaptive Microservice-based OS
 
-
-
-(TODO: make folders for each and put material there)
 
 
