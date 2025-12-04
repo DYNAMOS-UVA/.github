@@ -40,15 +40,15 @@ Client-Level Disagreements in Federated Learning"** 2025 IEEE Big Data
 Container-Based Systems"**, 10th International Workshop on Green and Sustainable Software (GREENS’26)
 
 
-<!--
+
 ## Demonstrations & More Material: (reverse chronologically)
 - (Nov 2025) SC 2025
 - RENCI webinar 
 - SC 2024: add CCI newspost link 
-- SC 2023
+- [SuperComputing demonstration 2023: Dynamos: Dynamically Adaptive Microservice-based OS](../Demonstration_material/SC_2023/SC2023.md)
 
 
 
 (TODO: make folders for each and put material there)
--->
+
 
