@@ -31,7 +31,7 @@ A federated learning simulation and orchestration system that implements multi-t
 
 
 
-## Upcoming (accepted for publication)
+### Upcoming (accepted for publication)
 1. Jake Jongejans, Alexandros Koufakis, and Ana Oprescu. **"Vertical Federated Learning on Scattered Directive:
 Enforcing Policies on VFL Workflows"** 2025 IEEE Big Data 
 2. Daan Rosendal, and Ana Oprescu **"A Taxonomy and Resolution Strategy for
@@ -39,7 +39,15 @@ Client-Level Disagreements in Federated Learning"** 2025 IEEE Big Data
 3. Alexandros Koufakis, Collin Poetoehena, Tom van Engers, and Ana Oprescu. **"An Empirical Study of Energy Efficiency Monitoring for Complex
 Container-Based Systems"**, 10th International Workshop on Green and Sustainable Software (GREENS’26)
 
-
+## Theses
+1. Base DYNAMOS
+    - https://scripties.uba.uva.nl/search?id=record_53890 (Jorrit's)
+2. Scattered Directive 
+    - https://scripties.uba.uva.nl/search?id=record_56506 (Jake's)
+3. Energy Efficient DYNAMOS 
+    - https://scripties.uba.uva.nl/search?id=record_55890 (Collin's) 
+4. FL Disagreement Resolutions
+    - https://scripties.uba.uva.nl/search?id=record_56491 (Daan's)
 
 ## Demonstrations & More Material:
 - [SuperComputing 2025](../Demonstration_material/SC_2025/SC2025.md): Policy-aware distributed Vertical Federated Learning infrastructure
