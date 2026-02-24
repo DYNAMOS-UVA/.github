@@ -19,15 +19,15 @@ This fork focuses on energy-efficiency optimizations for DYNAMOS archetypes. The
 A federated learning simulation and orchestration system that implements multi-track disagreement resolution for client-level exclusions. It addresses scenarios where not all clients mutually agree to collaborate: the system creates isolated model-update “tracks” per disagreement preference to enforce client-level exclusion and prevent cross-contamination. The project contains simulation code, visualization tools for track contributions over time, and material used for evaluation in the thesis and related publications.
     - **Original author:** Daan Rosendal
 
+- [Privacy Enhancing Technologies on Vertical Federated Learning](https://github.com/DYNAMOS-UVA/DYNAMOS-jiyan/tree/thesisJiyan) 
+This work intially adjusted the [Scattered Directive](https://github.com/DYNAMOS-UVA/Scattered-Directive) VFL implementation to work on the offline (not FABRIC) DYNAMOS installation. Moreover, this work introduced two optional PET microservices that are integrated in the VFL use case. Specifically the two implemented PETs are an Anonymization service and a Differential Privacy service. <br>
+(Note that the repo updates are on the [thesisJiyan branch](https://github.com/DYNAMOS-UVA/DYNAMOS-jiyan/tree/thesisJiyan)))
+    - **Original author:** Jiyan Tam 
 
 ## [Publications](https://github.com/DYNAMOS-UVA/DYNAMOS/tree/main/docs/papers) 
 
 1. Stutterheim, Jorrit, Aleandro Mifsud, and Ana Oprescu. **"Dynamos: dynamic microservice composition for data-exchange systems, lessons learned."** 2024 IEEE 21st International Conference on Software Architecture Companion (ICSA-C). IEEE, 2024.
 2. Dalgkitsis, Anestis, et al. **"Secure Collaborative Model Training with Dynamic Federated Learning in Multi-Domain Environments."** SC24-W: Workshops of the International Conference for High Performance Computing, Networking, Storage and Analysis. IEEE, 2024.
-
-<!--
-3. TODO: INDIS 2025 publication upload to arxiv?
--->
 
 
 
