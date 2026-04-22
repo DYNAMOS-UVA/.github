@@ -26,28 +26,34 @@ This work intially adjusted the [Scattered Directive](https://github.com/DYNAMOS
 
 ## [Publications](https://github.com/DYNAMOS-UVA/DYNAMOS/tree/main/docs/papers) 
 
-1. Stutterheim, Jorrit, Aleandro Mifsud, and Ana Oprescu. **"Dynamos: dynamic microservice composition for data-exchange systems, lessons learned."** 2024 IEEE 21st International Conference on Software Architecture Companion (ICSA-C). IEEE, 2024.
+1. Stutterheim, Jorrit, Aleandro Mifsud, and Ana Oprescu. **"Dynamos: dynamic microservice composition for data-exchange systems, lessons learned."** 2024 IEEE 21st International Conference on Software Architecture Companion (ICSA-C). IEEE, 2024. 
+    - [PDF](https://github.com/DYNAMOS-UVA/DYNAMOS/blob/main/docs/papers/architectural/ICSA_DYNAMOS_paper.pdf)
 2. Dalgkitsis, Anestis, et al. **"Secure Collaborative Model Training with Dynamic Federated Learning in Multi-Domain Environments."** SC24-W: Workshops of the International Conference for High Performance Computing, Networking, Storage and Analysis. IEEE, 2024.
+    - [PDF](https://github.com/DYNAMOS-UVA/DYNAMOS/blob/main/docs/papers/federated_learning/INDIS_2024_Short_Paper_Final_v2_1_45.pdf)
+3. Jongejans, Jake, Alexandros Koufakis, and Ana Oprescu. **"Vertical Federated Learning on Scattered Directive: Enforcing Policies on VFL Workflows."** 2025 IEEE International Conference on Big Data (BigData). IEEE, 2025.
+    - [link](https://ieeexplore.ieee.org/document/11401076)
+4. Rosendal, Daan, and Ana Oprescu. **"A taxonomy and resolution strategy for client-level disagreements in federated learning."** 2025 IEEE International Conference on Big Data (BigData). IEEE, 2025.
+    - [link](https://ieeexplore.ieee.org/abstract/document/11401516)
+5. Alexandros Koufakis, Collin Poetoehena, Tom van Engers, and Ana Oprescu. **"An Empirical Study of Energy Efficiency Monitoring for Complex Container-Based Systems"**, 10th International Workshop on Green and Sustainable Software (GREENS’26)
+    - [PDF](https://github.com/DYNAMOS-UVA/DYNAMOS/blob/main/docs/papers/misc/Energy_efficient_monitoring_GREENS.pdf)
 
 
-
-### Upcoming (accepted for publication)
-1. Jake Jongejans, Alexandros Koufakis, and Ana Oprescu. **"Vertical Federated Learning on Scattered Directive:
-Enforcing Policies on VFL Workflows"** 2025 IEEE Big Data 
-2. Daan Rosendal, and Ana Oprescu **"A Taxonomy and Resolution Strategy for
-Client-Level Disagreements in Federated Learning"** 2025 IEEE Big Data
-3. Alexandros Koufakis, Collin Poetoehena, Tom van Engers, and Ana Oprescu. **"An Empirical Study of Energy Efficiency Monitoring for Complex
-Container-Based Systems"**, 10th International Workshop on Green and Sustainable Software (GREENS’26)
+<!-- ### Upcoming (accepted for publication)
+1.  -->
 
 ## Theses
 1. Base DYNAMOS
-    - https://scripties.uba.uva.nl/search?id=record_53890 (Jorrit's)
+    - https://scripties.uba.uva.nl/search?id=record_53890
+    - Jorrit Stutterheim
 2. Scattered Directive 
-    - https://scripties.uba.uva.nl/search?id=record_56506 (Jake's)
+    - https://scripties.uba.uva.nl/search?id=record_56506 
+    - Jake Jongejans
 3. Energy Efficient DYNAMOS 
-    - https://scripties.uba.uva.nl/search?id=record_55890 (Collin's) 
+    - https://scripties.uba.uva.nl/search?id=record_55890 
+    - Collin Poetoehena 
 4. FL Disagreement Resolutions
-    - https://scripties.uba.uva.nl/search?id=record_56491 (Daan's)
+    - https://scripties.uba.uva.nl/search?id=record_56491 
+    - Daan Rosendal
 
 ## Demonstrations & More Material:
 - [SuperComputing 2025](../Demonstration_material/SC_2025/SC2025.md): Policy-aware distributed Vertical Federated Learning infrastructure
