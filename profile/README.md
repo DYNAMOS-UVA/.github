@@ -56,6 +56,7 @@ This work intially adjusted the [Scattered Directive](https://github.com/DYNAMOS
     - Daan Rosendal
 
 ## Demonstrations & More Material:
+- [ICT Open 2026](../Demonstration_material/ICT_open/ICT_open_demonstration.md): eFLINT-based policy extraction pipeline for Federated Learning infrastructure 
 - [SuperComputing 2025](../Demonstration_material/SC_2025/SC2025.md): Policy-aware distributed Vertical Federated Learning infrastructure
 - [RENCI webinar](../Demonstration_material/RENCI_webinar/RENCI_webinar_25.md): Federated Learning with microservices
 - [SuperComputing 2024](../Demonstration_material/SC_2024/SC2024.md): Microservices-based FABRIC implementation of Collaborative Model Training Scenario  with Vertical Federated Learning
