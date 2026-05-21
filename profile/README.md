@@ -21,7 +21,6 @@ A federated learning simulation and orchestration system that implements multi-t
 
 - [Privacy Enhancing Technologies on Vertical Federated Learning](https://github.com/DYNAMOS-UVA/DYNAMOS-jiyan/tree/thesisJiyan) 
 This work intially adjusted the [Scattered Directive](https://github.com/DYNAMOS-UVA/Scattered-Directive) VFL implementation to work on the offline (not FABRIC) DYNAMOS installation. Moreover, this work introduced two optional PET microservices that are integrated in the VFL use case. Specifically the two implemented PETs are an Anonymization service and a Differential Privacy service. <br>
-(Note that the repo updates are on the [thesisJiyan branch](https://github.com/DYNAMOS-UVA/DYNAMOS-jiyan/tree/thesisJiyan)))
     - **Original author:** Jiyan Tam 
 
 ## [Publications](https://github.com/DYNAMOS-UVA/DYNAMOS/tree/main/docs/papers) 
