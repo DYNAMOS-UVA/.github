@@ -35,6 +35,7 @@ This work intially adjusted the [Scattered Directive](https://github.com/DYNAMOS
     - [link](https://ieeexplore.ieee.org/abstract/document/11401516)
 5. Alexandros Koufakis, Collin Poetoehena, Tom van Engers, and Ana Oprescu. **"An Empirical Study of Energy Efficiency Monitoring for Complex Container-Based Systems"**, 10th International Workshop on Green and Sustainable Software (GREENS’26)
     - [PDF](https://github.com/DYNAMOS-UVA/DYNAMOS/blob/main/docs/papers/misc/Energy_efficient_monitoring_GREENS.pdf)
+    - [link](https://dl.acm.org/doi/10.1145/3786148.3788628)
 
 
 <!-- ### Upcoming (accepted for publication)
