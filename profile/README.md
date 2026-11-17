@@ -56,6 +56,7 @@ This work intially adjusted the [Scattered Directive](https://github.com/DYNAMOS
     - Daan Rosendal
 
 ## Demonstrations & More Material:
+- [SuperComputing 2026](../Demonstration_material/SC_2026/SC2026.md): Team demonstration at CIENA booth
 - [ICT Open 2026](../Demonstration_material/ICT_open/ICT_open_demonstration.md): eFLINT-based policy extraction pipeline for Federated Learning infrastructure 
 - [SuperComputing 2025](../Demonstration_material/SC_2025/SC2025.md): Policy-aware distributed Vertical Federated Learning infrastructure
 - [RENCI webinar](../Demonstration_material/RENCI_webinar/RENCI_webinar_25.md): Federated Learning with microservices
